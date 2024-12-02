@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my Github page!
 
-My name is Céline Hocquette, I am a researcher at the university of Oxford in the [Logic and Learning group](https://www.andrewcropper.com/group).
+My name is Céline Hocquette, I am a lecturer at the university of Southampton.
 
 My research focuses on inductive logic programming, which is a form of program synthesis based on logic. In particular, I work on a constraint programming approach to inductive logic programming.
 
